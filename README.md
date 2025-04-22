@@ -21,7 +21,9 @@ This is a secure and user-friendly **Online Voting System** built using **HTML, 
 
 ### Steps to Run:
 1. Clone this repository:
+   ```bash
    git clone https://github.com/dhinesh7-cit/OnlineVotingSystem.git
+   
 Set up the database using the provided SQL scripts.
 
 Configure the config.php file with your database credentials.
