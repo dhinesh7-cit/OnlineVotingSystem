@@ -24,18 +24,18 @@ This is a secure and user-friendly **Online Voting System** built using **HTML, 
    ```bash
    git clone https://github.com/dhinesh7-cit/OnlineVotingSystem.git
    
-Set up the database using the provided SQL scripts.
+2. Set up the database using the provided SQL scripts.
 
-Configure the config.php file with your database credentials.
+3. Configure the config.php file with your database credentials.
 
-Start the Apache server and open index.php in your browser.
+4. Start the Apache server and open index.php in your browser.
 
-Usage
-Register/Login with your email.
+5. Usage
+   Register/Login with your email.
 
-Vote for your preferred candidate.
+6. Vote for your preferred candidate.
 
-Admins can manage the voting process through the admin panel.
+7. Admins can manage the voting process through the admin panel.
 
 **License:**
 This project is licensed under the MIT License - see the LICENSE file for details.
